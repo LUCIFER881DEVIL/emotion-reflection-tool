@@ -74,7 +74,7 @@ function App() {
     setError('');
 
     try {
-      const response = await fetch('https://emotion-reflection-tool-1.onrender.com/', {
+      const response = await fetch('https://emotion-reflection-tool-1.onrender.com/analyze', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text }),
