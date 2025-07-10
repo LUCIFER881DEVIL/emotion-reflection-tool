@@ -30,5 +30,5 @@ A smart, interactive web app that lets users reflect their emotions via text or 
 ### 📁 Clone this repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/emotion-reflection-tool.git
+git clone https://github.com/LUCIFER881DEVIL/emotion-reflection-tool.git
 cd emotion-reflection-tool
